@@ -1,0 +1,2 @@
+# stin
+STIN cviceni
